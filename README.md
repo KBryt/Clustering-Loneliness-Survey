@@ -1,8 +1,10 @@
-# Mapper-on-Loneliness
+# Clustering-on-Loneliness
 
-My thesis [here](https://tspace.library.utoronto.ca/handle/1807/126591)
+- Lots of help from [here](https://www.math.colostate.edu/~adams/)
 
-Become a Research Scientist by spending $0. Here are 19 FREE courses that can 🚀 your research skills today: 👇
+- My thesis [here](https://tspace.library.utoronto.ca/handle/1807/126591)
+
+## Become a Research Scientist by spending $0. Here are 19 FREE courses that can 🚀 your research skills today: 👇
 
 Data Analysis:
 1. Harvard - R Basics: https://lnkd.in/gzW8Z5jT
